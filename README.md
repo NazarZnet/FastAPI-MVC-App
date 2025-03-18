@@ -18,7 +18,7 @@ A robust and scalable FastAPI web application following the **MVC design pattern
 ## 📦 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/NazarZnet/fastapi-mvc-app.git
+git clone https://github.com/NazarZnet/FastAPI-MVC-App.git
 cd fastapi-mvc-app
 ```
 
